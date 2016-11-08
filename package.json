@@ -1,7 +1,7 @@
 {
 	"name" : "jquery.hotkeys",
 	"title" : "jQuery Hotkeys",
-	"version" : "0.8",
+	"version" : "0.8.0",
 	"main" : "jquery.hotkeys.js",
 	"homepage" : "https://github.com/tzuryby/jquery.hotkeys",
 	"keywords" : [
